@@ -78,6 +78,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Feature\CalculatorFeature.feature" />
+    <None Include="Feature\TestFeature.feature" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />
