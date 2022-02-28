@@ -16,5 +16,11 @@ namespace TestOctane.Action
         {
             Assert.IsTrue(true);
         }
+
+        [StepDefinition(@"упавший тест")]
+        public void FailedTest()
+        {
+            Assert.IsTrue(false);
+        }
     }
 }
