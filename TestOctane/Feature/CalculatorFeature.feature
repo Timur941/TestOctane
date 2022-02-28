@@ -6,3 +6,6 @@ Scenario: Add two numbers
 
 Scenario: Failed test
 	Given успешный тест
+
+Scenario: Failed test2
+	Given успешный тест
