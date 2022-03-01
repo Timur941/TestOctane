@@ -8,4 +8,4 @@ Scenario: Test2
 	Given успешный тест
 
 Scenario: Test3
-	Given успешный тест
+	Given упавший тест
