@@ -5,7 +5,7 @@ Scenario: Add two numbers
 	Given успешный тест
 
 Scenario: Failed test
-	Given упавший тест
+	Given успешный тест
 
 Scenario: Failed test2
 	Given успешный тест
